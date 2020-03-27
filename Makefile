@@ -534,7 +534,6 @@ config: scripts_basic outputmakefile FORCE
 	$(Q)$(MAKE) $(build)=scripts/kconfig $@
 
 %config: scripts_basic outputmakefile FORCE
-	$(shell cp -rf $(KBUILD_SRC)/../oneplus/ $(KBUILD_SRC)/../)
 	$(Q)$(MAKE) $(build)=scripts/kconfig $@
 
 else
