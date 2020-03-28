@@ -6050,6 +6050,7 @@ CONFIG_HOUSTON=y
 CONFIG_CONTROL_CENTER=y
 CONFIG_AIGOV=y
 CONFIG_PCCORE=y
+<<<<<<< HEAD
 #
 # Automatically generated file; DO NOT EDIT.
 # Linux/arm64 4.14.117 Kernel Configuration
@@ -12102,3 +12103,5 @@ CONFIG_HOUSTON=y
 CONFIG_CONTROL_CENTER=y
 CONFIG_AIGOV=y
 CONFIG_PCCORE=y
+=======
+>>>>>>> 99a822a7685ef714841d17eef62caf284caeecab
